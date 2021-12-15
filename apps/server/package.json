@@ -1,0 +1,11 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Go Server, how 'bout that?",
+  "main": "index.js",
+  "scripts": {
+    "build": "go mod tidy && go run ."
+  },
+  "author": "",
+  "license": "ISC"
+}
